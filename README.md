@@ -1,9 +1,12 @@
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/name-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/name-light.svg">
-    <img alt="Deandre Chandler" src="assets/name-dark.svg" width="100%">
-  </picture>
-</p>
+<img src="assets/ascii-name.svg" align="center">
 
-## testerssdsg
+---
+<h3 align="Center"><span style="color:#20C20E"> ✨About me ✨</h3>
+
+
+---
+<h3 align="Center"><span style="color:#20C20E"> 🚀Languages & Tools 🚀</h3>
+
+
+---
+<h3 align="Center"><span style="color:#20C20E"> 🔋Contribution Activity 🔋</h3>

@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1386" height="126" viewBox="0 0 1385.6 126.0">
   <title>Deandre Chandler</title>
   <style>
-    text { font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace; font-size: 14px; fill: #1f2328; }
-    .caret { fill: #1f2328; }
+    text { font-family: ui-monospace, "SFMono-Regular", Menlo, Consolas, "Liberation Mono", monospace; font-size: 14px; fill: #00FF00; }
+    .caret { fill: #ffffff; }
   </style>
   <defs>
     <clipPath id="typed">
