@@ -3,11 +3,13 @@
 ---
 <h3 align="Center">✨About me ✨</h3>
 
-Hello, My name is **Deandre Chandler** and I'm a **computer science** transfer student @SDSU. 
+Hello, My name is **Deandre Chandler** and I'm a **computer science** transfer student at **SDSU**. I love turing ideas into reality. I'm into building **software** that people will actually **use** and **benefit** from. Outside, you'll find me hiking, at the gym, doing BJJ.
 
-- Getting hands-on with backend basics: APIs, servers, and connecting front ends to data
-- Working toward full-stack development, from the database to the UI
-- Interested in the full product loop: identifying problems, prototyping, and iterating on feedback
+- Building **backend** skills: APIs, servers, and data flow
+- Working toward **full-stack**, from database to UI
+- Focused on the product loop: find the **problem** **prototype**, **iterate**
+- Integrating **LLMs** and **AI** APIs into real products
+- Building mobile-first, cross-platform apps with **React Native**
 - Member of SDSU's **App Dev Club** and **AI Club**
 
  **🌐 Personal website:** pending...
