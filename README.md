@@ -3,7 +3,7 @@
 ---
 <h3 align="Center">✨About me ✨</h3>
 
-Hello, My name is **Deandre Chandler** and I'm a **computer science** transfer student at **SDSU**. I love turing ideas into reality. I'm into building **software** that people will actually **use** and **benefit** from. Outside, you'll find me hiking, at the gym, doing BJJ.
+Hello, My name is **Deandre Chandler** and I'm a **computer science** transfer student at **SDSU**. I love turing ideas into reality. I'm into building **software** that people will actually **use** and **benefit** from. Outside, you'll find me hiking, at the gym, or doing BJJ.
 
 - Building **backend** skills: APIs, servers, and data flow
 - Working toward **full-stack**, from database to UI
