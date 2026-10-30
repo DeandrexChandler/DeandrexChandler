@@ -12,7 +12,7 @@ Hello, My name is **Deandre Chandler** and I'm a **computer science** transfer s
 - Building mobile-first, cross-platform apps with **React Native**
 - Member of SDSU's **App Dev Club** and **AI Club**
 
- **🌐 Personal website:** pending...
+ **🌐 Portfolio website:** pending...
 
 ---
 <h3 align="Center">🚀Languages & Tools 🚀</h3>
